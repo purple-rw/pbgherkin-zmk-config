@@ -14,7 +14,7 @@
 #define BASE  0     // alphas (Colemak-DH)
 #define QWRTY 1     // alphas (Qwerty)
 #define HNSDN 2     // alphas (Hands Down Neu 30)
-$define SEMMK 3     // alphas (Semimak JQ)
+#define SEMMK 3     // alphas (Semimak JQ)
 #define RAISE 4     // symbols & numbers
 #define SYMBL 5     // symbols
 #define LOWER 6     // functions & navigation
