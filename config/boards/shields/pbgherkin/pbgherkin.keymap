@@ -117,7 +117,7 @@
 // |     |     |     | *** |     |     |     |     |     |     |
 // -------------------------------------------------------------
             combo_f12   { timeout-ms = <50>; key-positions = <13 14>; bindings = <&kp F12>;   layers = <LOWER>; };
-            combo_tab   { timeout-ms = <50>; key-positions = <15 16>; bindings = <&kp TAB>;   layers = <LOWER>; };
+            combo_tab2  { timeout-ms = <50>; key-positions = <15 16>; bindings = <&kp TAB>;   layers = <LOWER>; };
 
 // Functions & Keypad (Horizontal Combos)
 // -------------------------------------------------------------
