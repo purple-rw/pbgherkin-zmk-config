@@ -232,7 +232,7 @@
             bindings = <
     &kp CARET   &kp PRCNT   &kp PLUS    &kp LBKT    &kp COMMA   &kp SEMI    &kp RBKT    &kp EXCL    &kp TILDE   &kp GRAVE
     &kp DLLR    &kp EQUAL   &kp MINUS   &kp LPAR    &kp LT      &kp QT      &kp RPAR    &kp UNDER   &kp DQT     &kp SQT
-    &kp AT      &kp PIPE    &kp AMPS    &KP LBRC    &trans      &kp QMARK   &trans      &kp STAR    &kp HASH    &kp BSLH
+    &kp AT      &kp PIPE    &kp AMPS    &kp LBRC    &trans      &kp QMARK   &trans      &kp STAR    &kp HASH    &kp BSLH
             >;
         };
 
