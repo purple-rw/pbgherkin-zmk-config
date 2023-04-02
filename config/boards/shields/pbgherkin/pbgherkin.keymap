@@ -41,7 +41,7 @@
 };
 
 &sk {
-    release-after-ms = <2000>;
+    release-after-ms = <3000>;
 };
 
 &caps_word {
